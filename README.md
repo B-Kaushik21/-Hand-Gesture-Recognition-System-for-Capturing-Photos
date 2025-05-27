@@ -27,7 +27,7 @@ This project uses a webcam and **MediaPipe** to detect hand gestures in real tim
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/B-Kaushik21/-Hand-Gesture-Recognition-System-for-Capturing-Photos.git
+git clone https://github.com/B-Kaushik21/Hand-Gesture-Recognition-System-for-Capturing-Photos.git
 cd <REPO-NAME>
 ```
 
